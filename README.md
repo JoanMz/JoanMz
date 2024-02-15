@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🐻 I'm currently study to be a Data & AI engenier
+- 🔭 I'm currently learn about statistics and ETL process
+  ## I'm happy for Learn 
 <!--
 **JoanMz/JoanMz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
