@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🐻 I'm currently study to be a Data & AI engenier
+- 🐻 I'm a Data & AI engenier
 - 🔭 I'm currently work statistics and ETL process
   
 <!--
