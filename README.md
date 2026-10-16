@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🐻 I'm a Data & AI engenier
-- 🔭 I'm currently work statistics and ETL process
   
 <!--
 **JoanMz/JoanMz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
